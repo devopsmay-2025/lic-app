@@ -3,4 +3,3 @@ echo "welcome to git"
 pwd
 date
 whoami
-who
