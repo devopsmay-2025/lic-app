@@ -1,4 +1,7 @@
 hello
 welcome to devops
 we r learning devops
+<<<<<<< HEAD
 now git is learning
+=======
+>>>>>>> parent of ff5b4cc (fourthcommit)
